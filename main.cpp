@@ -3,6 +3,7 @@
 
 int main()
 {
+    setlocale(LC_ALL, "Russian");
     bool exit = false;
     int func;
     double x;
